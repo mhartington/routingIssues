@@ -8,6 +8,7 @@ When you go back to another page from the page that has the tabs, route of tabs 
 
 # tabsHidden
 Navigating on a page with tabs directly the page will not have any tabs visible. (It works if the route is the main tab, if secondary the tabs are not visible)
+- not able to replicate really
 
 # childRoutes
 
